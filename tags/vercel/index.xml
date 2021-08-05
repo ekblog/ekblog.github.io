@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>vercel on Eka Status and Micro Blog</title><link>/tags/vercel/</link><description>Recent content in vercel on Eka Status and Micro Blog</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>©2020 Putra Eka's Network.</copyright><lastBuildDate>Fri, 06 Aug 2021 02:14:10 +0700</lastBuildDate><atom:link href="/tags/vercel/index.xml" rel="self" type="application/rss+xml"/><item><title>Canti Ganti Hugo Version Vercel</title><link>/posts/canti-ganti-hugo-version-vercel/</link><pubDate>Fri, 06 Aug 2021 02:14:10 +0700</pubDate><guid>/posts/canti-ganti-hugo-version-vercel/</guid><description>Tadi waktu mau deploy blog baru putraeka.eu.org di vercel, ada kesalahan di buildnya sehingga tidak bisa terdeploy.
+unable to parse translation #0 because invalid plural category title Yang jadi masalah adalah sebenarnya kode error diatasnya your hugo version is not compatible
+Search google akhirnya nemu cara mengganti versi hugo di vercel
+Buat file di root site dengan nama vercel.json
+Isi dengan perintah berikut
+{ &amp;quot;build&amp;quot;: { &amp;quot;env&amp;quot;: { &amp;quot;HUGO_VERSION&amp;quot;: &amp;quot;0.</description></item></channel></rss>
