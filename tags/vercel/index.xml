@@ -3,4 +3,4 @@ unable to parse translation #0 because invalid plural category title Yang jadi m
 Search google akhirnya nemu cara mengganti versi hugo di vercel
 Buat file di root site dengan nama vercel.json
 Isi dengan perintah berikut
-{ &amp;quot;build&amp;quot;: { &amp;quot;env&amp;quot;: { &amp;quot;HUGO_VERSION&amp;quot;: &amp;quot;0.</description></item></channel></rss>
+{ &amp;#34;build&amp;#34;: { &amp;#34;env&amp;#34;: { &amp;#34;HUGO_VERSION&amp;#34;: &amp;#34;0.85.0&amp;#34; } } } Ganti versi sesuai dengan yang berhasil digunakan di localhost.</description></item></channel></rss>
