@@ -1,4 +1,4 @@
 User-agent: *
-Disallow: /tag/*
+Disallow: /tags/*
 Disallow: /categories/*
 Sitemap: /sitemap.xml
